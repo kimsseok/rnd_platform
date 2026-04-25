@@ -20,3 +20,31 @@
 - 교육 URL : https://www.youtube.com/watch?v=1_bRmkUvjHA&list=PL3o4sx7PIgDSlIkmF_ORJuPS01d94SEXE
 
 1. Claude 기본 명령어
+- Ubuntu 환경 내 
+2. To-Do list
+- claude는 code 생성 뿐만 아니라, 스스로 to-do list를 만드는 모델<br>
+(3D 계산기 개발 예시)
+- 완성했습니다. 적용된 3D 효과들:
+
+  시각적 3D
+  - 계산기 본체에 translateZ 레이어 — 두께감 있는 측면
+  렌더링
+  - 버튼에 box-shadow: 0 6px 0 — 눌리는 입체감
+  - 버튼 누를 때 translateY(3px) 애니메이션 — 물리적
+  클릭감
+  - 상단/버튼마다 반사광 레이어 (::after 하이라이트)
+
+  환경 효과
+  - 원근감 있는 배경 그리드 (원근 변환)
+  - 마우스 움직임에 따라 계산기가 틸트 (gyroscope 느낌)
+  - 계산기가 천천히 떠다니는 float 애니메이션
+  - 보라빛 파티클이 떠오르는 배경
+
+  디스플레이
+  - CRT 스캔라인 효과
+  - 숫자에 네온 글로우 (text-shadow)
+  - = 누를 때 플래시 펄스
+ 
+2. CLAUDE.md 활용
+- 
+3. 
