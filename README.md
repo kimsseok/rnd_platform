@@ -48,4 +48,5 @@
 2. CLAUDE.md 활용
 - 설계 지침 저장 용도 (claude 총괄 지침 파일, 장기 기억 파일)
 - /init : claude.md의 기본 틀
+  즉, code format 일원화 가능
 3. 
